@@ -1,3 +1,4 @@
+<?php
 inserisco questa funzione in functions.php
 -----------------------------------------
 function set_meta_description() {
@@ -18,7 +19,7 @@ echo "Argomenti relativi alla categoria ".ucfirst(single_cat_title("", FALSE));
 echo get_bloginfo ( 'description' ) .". Allungo un po' il motto del Blog per far contento Google.";
 }
 }
-
+?>
 
 inserisco questa riga nell'header.php
 --------------------------------------
