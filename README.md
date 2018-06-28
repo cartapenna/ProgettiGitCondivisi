@@ -1,3 +1,3 @@
-# Progetti Git Condivisi
+# Progetti Wordpress
 
 Wordpress Tips and Tricks
