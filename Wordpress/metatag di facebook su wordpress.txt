@@ -1,6 +1,7 @@
 <?php
-inserisco questa funzione in functions.php
------------------------------------------
+/* inserisco questa funzione in functions.php */
+
+
 function set_meta_description() {
 if(is_home()) {
 echo get_bloginfo ( 'description' ) .". Allungo un po' il motto del Blog per far contento Google.";
