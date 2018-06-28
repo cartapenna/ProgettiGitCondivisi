@@ -1,3 +1,3 @@
-# Progetti Wordpress
+# Codice riusabile
 
 Wordpress Tips and Tricks
